@@ -1,0 +1,787 @@
+fileFormatVersion: 2
+guid: 4410b54831cff4892a266936ae8a4fc6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: set-yellow-round-buttons-user-interface-computer-games_284645-537-fotor-2024032914553_0
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 522
+        width: 76
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d65c917322a4ad7bf0ce210d701197
+      internalID: 388832325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-yellow-round-buttons-user-interface-computer-games_284645-537-fotor-2024032914553_1
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 521
+        width: 77
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b764c4f2723384fa4bb3db67f8ff63a7
+      internalID: -2010067949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-yellow-round-buttons-user-interface-computer-games_284645-537-fotor-2024032914553_2
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 521
+        width: 76
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01fbf3bc1acf48b3833d0309e3ece2e
+      internalID: -372335192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-yellow-round-buttons-user-interface-computer-games_284645-537-fotor-2024032914553_3
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 521
+        width: 76
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7a70ee0e8ac432a9a03ec4a11a1280
+      internalID: -626097778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-yellow-round-buttons-user-interface-computer-games_284645-537-fotor-2024032914553_4
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 522
+        width: 76
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edfdb127392fb4e82ac25fee78260c55
+      internalID: -1730142896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-yellow-round-buttons-user-interface-computer-games_284645-537-fotor-2024032914553_5
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 423
+        width: 76
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7992e28f9b21416daa3a1661954aa1d
+      internalID: -239851892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-yellow-round-buttons-user-interface-computer-games_284645-537-fotor-2024032914553_6
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 422
+        width: 77
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2faabbd90281440468fb5221796c36ca
+      internalID: -1317056253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-yellow-round-buttons-user-interface-computer-games_284645-537-fotor-2024032914553_7
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 422
+        width: 77
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e0bd43a02774e7a94788625e51f259
+      internalID: -1856564761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-yellow-round-buttons-user-interface-computer-games_284645-537-fotor-2024032914553_8
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 422
+        width: 76
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e149ea87ada4a858aeef6e9c83b623
+      internalID: -958530939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-yellow-round-buttons-user-interface-computer-games_284645-537-fotor-2024032914553_9
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 422
+        width: 76
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ceb8cee24ec740b6ab1eb9a77553b19
+      internalID: 881365883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-yellow-round-buttons-user-interface-computer-games_284645-537-fotor-2024032914553_10
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 324
+        width: 76
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ea3ba4a74c0461da689b8f3925995b
+      internalID: 138149310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-yellow-round-buttons-user-interface-computer-games_284645-537-fotor-2024032914553_11
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 323
+        width: 76
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd4424ff4d18479ba7f75c492d52540
+      internalID: 185151640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-yellow-round-buttons-user-interface-computer-games_284645-537-fotor-2024032914553_12
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 323
+        width: 76
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff031840f6fc448ea7a7757f4d998bf
+      internalID: -622007340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-yellow-round-buttons-user-interface-computer-games_284645-537-fotor-2024032914553_13
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 324
+        width: 76
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c82c1e43fd764de590174f71d36b6d2
+      internalID: 428992909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-yellow-round-buttons-user-interface-computer-games_284645-537-fotor-2024032914553_14
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 324
+        width: 76
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d4eb9a423bd423d8b3b609c096bda3
+      internalID: -1171010677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-yellow-round-buttons-user-interface-computer-games_284645-537-fotor-2024032914553_15
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 225
+        width: 76
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0038bfd03da24176985404595178367
+      internalID: -1920452063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-yellow-round-buttons-user-interface-computer-games_284645-537-fotor-2024032914553_16
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 225
+        width: 77
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11edfda9b5ec4c7780272174ae2eb2c
+      internalID: -140576335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-yellow-round-buttons-user-interface-computer-games_284645-537-fotor-2024032914553_17
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 225
+        width: 76
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63fb023bd6c2434c800c097ffc6aea9
+      internalID: -444366550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-yellow-round-buttons-user-interface-computer-games_284645-537-fotor-2024032914553_18
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 225
+        width: 76
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67bfad22d629b4fe7bf7d63b09bcd73d
+      internalID: -1804100656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-yellow-round-buttons-user-interface-computer-games_284645-537-fotor-2024032914553_19
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 225
+        width: 76
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db14def5cb3f433c8bc2880c33a2bd6
+      internalID: 896680366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-yellow-round-buttons-user-interface-computer-games_284645-537-fotor-2024032914553_20
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 126
+        width: 76
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801ceb01e76df4543942cf880b6fd12b
+      internalID: 237162777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-yellow-round-buttons-user-interface-computer-games_284645-537-fotor-2024032914553_21
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 125
+        width: 76
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e54047ca653349838b76c1a28b6f213
+      internalID: -111270158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-yellow-round-buttons-user-interface-computer-games_284645-537-fotor-2024032914553_22
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 126
+        width: 76
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a870039cc82e94ff3b66a58fe4a42602
+      internalID: -1652820721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-yellow-round-buttons-user-interface-computer-games_284645-537-fotor-2024032914553_23
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 126
+        width: 76
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13b477ab695f461d8a4ece9bcec6d83
+      internalID: -1755935485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-yellow-round-buttons-user-interface-computer-games_284645-537-fotor-2024032914553_24
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 129
+        width: 76
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a3b68deb9f74dc4b2ea9f0929b392c
+      internalID: -979276633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-yellow-round-buttons-user-interface-computer-games_284645-537-fotor-2024032914553_25
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 26
+        width: 76
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6f1420f6cfd43deb073660e959969a
+      internalID: 1289427592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-yellow-round-buttons-user-interface-computer-games_284645-537-fotor-2024032914553_26
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 26
+        width: 76
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6a0e681a3b840bbb3263be26190953
+      internalID: 794896214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-yellow-round-buttons-user-interface-computer-games_284645-537-fotor-2024032914553_27
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 25
+        width: 76
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd65a7fbd5c143b2a6d8af47807202c
+      internalID: 1356206502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-yellow-round-buttons-user-interface-computer-games_284645-537-fotor-2024032914553_28
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 25
+        width: 76
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c010896e9f0f04209a424f80ab0c4927
+      internalID: -37377070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-yellow-round-buttons-user-interface-computer-games_284645-537-fotor-2024032914553_29
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 26
+        width: 76
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f118a7edc7f404a23b49a854781c4551
+      internalID: -887056169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      set-yellow-round-buttons-user-interface-computer-games_284645-537-fotor-2024032914553_0: 388832325
+      set-yellow-round-buttons-user-interface-computer-games_284645-537-fotor-2024032914553_1: -2010067949
+      set-yellow-round-buttons-user-interface-computer-games_284645-537-fotor-2024032914553_10: 138149310
+      set-yellow-round-buttons-user-interface-computer-games_284645-537-fotor-2024032914553_11: 185151640
+      set-yellow-round-buttons-user-interface-computer-games_284645-537-fotor-2024032914553_12: -622007340
+      set-yellow-round-buttons-user-interface-computer-games_284645-537-fotor-2024032914553_13: 428992909
+      set-yellow-round-buttons-user-interface-computer-games_284645-537-fotor-2024032914553_14: -1171010677
+      set-yellow-round-buttons-user-interface-computer-games_284645-537-fotor-2024032914553_15: -1920452063
+      set-yellow-round-buttons-user-interface-computer-games_284645-537-fotor-2024032914553_16: -140576335
+      set-yellow-round-buttons-user-interface-computer-games_284645-537-fotor-2024032914553_17: -444366550
+      set-yellow-round-buttons-user-interface-computer-games_284645-537-fotor-2024032914553_18: -1804100656
+      set-yellow-round-buttons-user-interface-computer-games_284645-537-fotor-2024032914553_19: 896680366
+      set-yellow-round-buttons-user-interface-computer-games_284645-537-fotor-2024032914553_2: -372335192
+      set-yellow-round-buttons-user-interface-computer-games_284645-537-fotor-2024032914553_20: 237162777
+      set-yellow-round-buttons-user-interface-computer-games_284645-537-fotor-2024032914553_21: -111270158
+      set-yellow-round-buttons-user-interface-computer-games_284645-537-fotor-2024032914553_22: -1652820721
+      set-yellow-round-buttons-user-interface-computer-games_284645-537-fotor-2024032914553_23: -1755935485
+      set-yellow-round-buttons-user-interface-computer-games_284645-537-fotor-2024032914553_24: -979276633
+      set-yellow-round-buttons-user-interface-computer-games_284645-537-fotor-2024032914553_25: 1289427592
+      set-yellow-round-buttons-user-interface-computer-games_284645-537-fotor-2024032914553_26: 794896214
+      set-yellow-round-buttons-user-interface-computer-games_284645-537-fotor-2024032914553_27: 1356206502
+      set-yellow-round-buttons-user-interface-computer-games_284645-537-fotor-2024032914553_28: -37377070
+      set-yellow-round-buttons-user-interface-computer-games_284645-537-fotor-2024032914553_29: -887056169
+      set-yellow-round-buttons-user-interface-computer-games_284645-537-fotor-2024032914553_3: -626097778
+      set-yellow-round-buttons-user-interface-computer-games_284645-537-fotor-2024032914553_4: -1730142896
+      set-yellow-round-buttons-user-interface-computer-games_284645-537-fotor-2024032914553_5: -239851892
+      set-yellow-round-buttons-user-interface-computer-games_284645-537-fotor-2024032914553_6: -1317056253
+      set-yellow-round-buttons-user-interface-computer-games_284645-537-fotor-2024032914553_7: -1856564761
+      set-yellow-round-buttons-user-interface-computer-games_284645-537-fotor-2024032914553_8: -958530939
+      set-yellow-round-buttons-user-interface-computer-games_284645-537-fotor-2024032914553_9: 881365883
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

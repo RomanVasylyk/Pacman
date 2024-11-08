@@ -1,0 +1,391 @@
+fileFormatVersion: 2
+guid: c255a4b1381004465985e8dcd55cf0dd
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: depositphotos_588018260-stock-illustration-cartoon-vegetables-organic-food-highly-fotor-20240330183356_0
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 257
+        width: 114
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c6444824b624a4a9c9542e930f7c16
+      internalID: 1342038887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_588018260-stock-illustration-cartoon-vegetables-organic-food-highly-fotor-20240330183356_1
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 259
+        width: 70
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3d018da33ac49838b214fc411ac21e
+      internalID: 1654232308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_588018260-stock-illustration-cartoon-vegetables-organic-food-highly-fotor-20240330183356_2
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 246
+        width: 99
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ce234600d4f437d90086dda370c82f
+      internalID: 253209063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_588018260-stock-illustration-cartoon-vegetables-organic-food-highly-fotor-20240330183356_3
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 251
+        width: 135
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0dec80961cd44577972d3ba78a3eb7f
+      internalID: -853559732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_588018260-stock-illustration-cartoon-vegetables-organic-food-highly-fotor-20240330183356_4
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 182
+        width: 71
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb7d2e356946446b838e328b2a76242
+      internalID: -1823582857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_588018260-stock-illustration-cartoon-vegetables-organic-food-highly-fotor-20240330183356_5
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 142
+        width: 111
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295cae04714344e0ab027dc58aef6957
+      internalID: 865028911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_588018260-stock-illustration-cartoon-vegetables-organic-food-highly-fotor-20240330183356_6
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 127
+        width: 140
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97a8f2a370d3498e8083d8f57bfce32
+      internalID: -805044097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_588018260-stock-illustration-cartoon-vegetables-organic-food-highly-fotor-20240330183356_7
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 134
+        width: 83
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5414b0f794b3f43699355b9f8401b98c
+      internalID: 670260405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_588018260-stock-illustration-cartoon-vegetables-organic-food-highly-fotor-20240330183356_8
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 160
+        width: 87
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9f4c4cc2bcf40c39c5d25c92faf6ac
+      internalID: 373548006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_588018260-stock-illustration-cartoon-vegetables-organic-food-highly-fotor-20240330183356_9
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 39
+        width: 124
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0558f6a7750c48bba3c2a4203373570
+      internalID: 1652279236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_588018260-stock-illustration-cartoon-vegetables-organic-food-highly-fotor-20240330183356_10
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 38
+        width: 149
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3268d6c1bf6284587b824ceff87c7f32
+      internalID: 1940753392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_588018260-stock-illustration-cartoon-vegetables-organic-food-highly-fotor-20240330183356_11
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 35
+        width: 168
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643056bf0dd2e4a71a85efb2137784f0
+      internalID: 2082026890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      depositphotos_588018260-stock-illustration-cartoon-vegetables-organic-food-highly-fotor-20240330183356_0: 1342038887
+      depositphotos_588018260-stock-illustration-cartoon-vegetables-organic-food-highly-fotor-20240330183356_1: 1654232308
+      depositphotos_588018260-stock-illustration-cartoon-vegetables-organic-food-highly-fotor-20240330183356_10: 1940753392
+      depositphotos_588018260-stock-illustration-cartoon-vegetables-organic-food-highly-fotor-20240330183356_11: 2082026890
+      depositphotos_588018260-stock-illustration-cartoon-vegetables-organic-food-highly-fotor-20240330183356_2: 253209063
+      depositphotos_588018260-stock-illustration-cartoon-vegetables-organic-food-highly-fotor-20240330183356_3: -853559732
+      depositphotos_588018260-stock-illustration-cartoon-vegetables-organic-food-highly-fotor-20240330183356_4: -1823582857
+      depositphotos_588018260-stock-illustration-cartoon-vegetables-organic-food-highly-fotor-20240330183356_5: 865028911
+      depositphotos_588018260-stock-illustration-cartoon-vegetables-organic-food-highly-fotor-20240330183356_6: -805044097
+      depositphotos_588018260-stock-illustration-cartoon-vegetables-organic-food-highly-fotor-20240330183356_7: 670260405
+      depositphotos_588018260-stock-illustration-cartoon-vegetables-organic-food-highly-fotor-20240330183356_8: 373548006
+      depositphotos_588018260-stock-illustration-cartoon-vegetables-organic-food-highly-fotor-20240330183356_9: 1652279236
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

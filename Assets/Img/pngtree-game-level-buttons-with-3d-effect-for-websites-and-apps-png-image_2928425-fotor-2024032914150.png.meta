@@ -1,0 +1,391 @@
+fileFormatVersion: 2
+guid: e94272d5d610b471884e34df5a748bfa
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngtree-game-level-buttons-with-3d-effect-for-websites-and-apps-png-image_2928425-fotor-2024032914150_0
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 283
+        width: 138
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7b0f32a09554a08b3c35a52f83d4b5
+      internalID: 1284964998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-level-buttons-with-3d-effect-for-websites-and-apps-png-image_2928425-fotor-2024032914150_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 211
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8db0b35a63a4f38b6346a51273d5c9
+      internalID: 482527941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-level-buttons-with-3d-effect-for-websites-and-apps-png-image_2928425-fotor-2024032914150_2
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 211
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8c1b600e79d4513ba09de5b19fc712
+      internalID: -23289917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-level-buttons-with-3d-effect-for-websites-and-apps-png-image_2928425-fotor-2024032914150_3
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 211
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ce5f3a433414499baaa355c12c1cf2
+      internalID: 1919865029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-level-buttons-with-3d-effect-for-websites-and-apps-png-image_2928425-fotor-2024032914150_4
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 147
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7f4af8db148427ba0b78dc9dced461
+      internalID: 1421240843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-level-buttons-with-3d-effect-for-websites-and-apps-png-image_2928425-fotor-2024032914150_5
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 147
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618f061fe1cd34f2f83c411ca5fca4a4
+      internalID: 342337945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-level-buttons-with-3d-effect-for-websites-and-apps-png-image_2928425-fotor-2024032914150_6
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 147
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89bb45114da74f70a90420c248e850f
+      internalID: 257725104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-level-buttons-with-3d-effect-for-websites-and-apps-png-image_2928425-fotor-2024032914150_7
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 84
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735f8af68a09944918744b0d968c53b6
+      internalID: -1142702937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-level-buttons-with-3d-effect-for-websites-and-apps-png-image_2928425-fotor-2024032914150_8
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 84
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec738518c630a4f3fa70fecf886842ee
+      internalID: 2039471313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-level-buttons-with-3d-effect-for-websites-and-apps-png-image_2928425-fotor-2024032914150_9
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 84
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3e729439fca44339af2e0ef95c432e
+      internalID: 2084511091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-level-buttons-with-3d-effect-for-websites-and-apps-png-image_2928425-fotor-2024032914150_10
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 23
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2386768c5944285b32eea9f1d48da9
+      internalID: 2129269035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-level-buttons-with-3d-effect-for-websites-and-apps-png-image_2928425-fotor-2024032914150_11
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 23
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5553667bd1b3841e6a9d06a476e1793c
+      internalID: -1392676907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      pngtree-game-level-buttons-with-3d-effect-for-websites-and-apps-png-image_2928425-fotor-2024032914150_0: 1284964998
+      pngtree-game-level-buttons-with-3d-effect-for-websites-and-apps-png-image_2928425-fotor-2024032914150_1: 482527941
+      pngtree-game-level-buttons-with-3d-effect-for-websites-and-apps-png-image_2928425-fotor-2024032914150_10: 2129269035
+      pngtree-game-level-buttons-with-3d-effect-for-websites-and-apps-png-image_2928425-fotor-2024032914150_11: -1392676907
+      pngtree-game-level-buttons-with-3d-effect-for-websites-and-apps-png-image_2928425-fotor-2024032914150_2: -23289917
+      pngtree-game-level-buttons-with-3d-effect-for-websites-and-apps-png-image_2928425-fotor-2024032914150_3: 1919865029
+      pngtree-game-level-buttons-with-3d-effect-for-websites-and-apps-png-image_2928425-fotor-2024032914150_4: 1421240843
+      pngtree-game-level-buttons-with-3d-effect-for-websites-and-apps-png-image_2928425-fotor-2024032914150_5: 342337945
+      pngtree-game-level-buttons-with-3d-effect-for-websites-and-apps-png-image_2928425-fotor-2024032914150_6: 257725104
+      pngtree-game-level-buttons-with-3d-effect-for-websites-and-apps-png-image_2928425-fotor-2024032914150_7: -1142702937
+      pngtree-game-level-buttons-with-3d-effect-for-websites-and-apps-png-image_2928425-fotor-2024032914150_8: 2039471313
+      pngtree-game-level-buttons-with-3d-effect-for-websites-and-apps-png-image_2928425-fotor-2024032914150_9: 2084511091
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
